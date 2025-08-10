@@ -1,4 +1,4 @@
-export const metedata = {
+export const metadata = {
     title: "About Codevolution",
 }
 
